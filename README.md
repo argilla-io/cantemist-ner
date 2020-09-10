@@ -1,4 +1,4 @@
-# CANTEMIST-NET
+# CANTEMIST-NER
 
 Recognai's contribution to the [CANTEMIST](https://temu.bsc.es/cantemist/) NER track.
 
